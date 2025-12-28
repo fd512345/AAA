@@ -1,0 +1,15 @@
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\Crypto.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\Crypto.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\CServer.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\CServer.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\DatabaseHelper.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\DatabaseHelper.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\Epoll.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\Epoll.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\HttpParser.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\HttpParser.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\http_parser.c;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\http_parser.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\jsoncpp\json_reader.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\json_reader.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\jsoncpp\json_value.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\json_value.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\jsoncpp\json_writer.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\json_writer.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\Logger.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\Logger.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\main.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\main.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\MysqlClient.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\MysqlClient.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\Sqlite3Client.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\Sqlite3Client.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\sqlite3\sqlite3.c;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\sqlite3.o
+D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\Thread.cpp;D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\obj\x64\Debug\Thread.o

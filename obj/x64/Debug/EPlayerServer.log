@@ -1,0 +1,23 @@
+﻿  正在验证源
+  正在将源远程复制到“192.168.1.8”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  Crypto.cpp
+  CServer.cpp
+  DatabaseHelper.cpp
+  Epoll.cpp
+  HttpParser.cpp
+  http_parser.c
+  json_reader.cpp
+  json_value.cpp
+  json_writer.cpp
+  Logger.cpp
+  main.cpp
+  MysqlClient.cpp
+  Sqlite3Client.cpp
+  sqlite3.c
+  Thread.cpp
+  正在链接对象
+  EPlayerServer.vcxproj -> D:\AAA\VideoPlayer_s\VideoPlayer_s\EPlayerServer\bin\x64\Debug\EPlayerServer.out
